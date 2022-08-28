@@ -9,6 +9,6 @@
 @media screen and (max-width: 767px) {
   .header__link {
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 20px;
   }
 }

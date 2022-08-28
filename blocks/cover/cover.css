@@ -3,6 +3,7 @@
   margin: 0 auto;
   width: 1184px;
   height: 740px;
+  overflow-x: hidden;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
