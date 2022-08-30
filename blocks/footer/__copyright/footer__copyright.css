@@ -11,6 +11,6 @@
   .footer__copyright {
     margin-top: 16px;
     line-height: 1;
-    max-width: 230px;
+    width: 230px;
 }
 }

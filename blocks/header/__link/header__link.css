@@ -1,11 +1,14 @@
 .header__link {
+  margin-left: 18px;
   text-decoration: none;
   color: white;
 }
 .header__link:hover {
-  opacity: .6;
+  opacity: .8;
 }
-
+.header__link:first-child {
+  margin-left: 0;
+}
 @media screen and (max-width: 767px) {
   .header__link {
     font-size: 18px;
