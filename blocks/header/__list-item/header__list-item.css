@@ -1,0 +1,17 @@
+.header__list-item {
+  margin-left: 18px;
+  text-decoration: none;
+  color: white;
+}
+.header__list-item:hover {
+  opacity: .8;
+}
+.header__list-item:first-child {
+  margin-left: 0;
+}
+@media screen and (max-width: 767px) {
+  .header__list-item {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
