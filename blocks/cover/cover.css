@@ -1,14 +1,14 @@
 .cover {
-  display: block;
+  display: flex;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
   position: relative;
-  margin: 0 auto;
+  margin: auto;
   width: 1184px;
   min-height: 740px;
   background-image: url(../../images/__background.jpg);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
