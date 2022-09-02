@@ -17,6 +17,7 @@
   height: 100%;
   padding-top: 245px;
   padding-bottom: 245px;
+  margin: auto;
 }
 .cover__overlay:before {
   content: '';

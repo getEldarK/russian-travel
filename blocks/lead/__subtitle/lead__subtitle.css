@@ -10,13 +10,7 @@
   text-align: center;
   align-self: center;
 }
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .lead__subtitle {
-    margin: 0 auto 56px auto;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .lead__subtitle {
     margin: 0 auto 56px auto;
   }
